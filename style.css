@@ -4,7 +4,7 @@
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  background: #0f172a; /* Zamonaviy to'q ko'k fon */
+  /* background: #0f172a; /* Zamonaviy to'q ko'k fon */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -83,4 +83,4 @@ button.equal {
 
 button.equal:hover {
   background: #059669;
-} */
+} */ */
